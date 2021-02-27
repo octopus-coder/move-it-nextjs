@@ -1,3 +1,15 @@
+App live hosted here:
+
+https://moveit-six-delta.vercel.app/
+
+Developed with NextJS:
+
+1) React,
+2) Context API
+3) Typescript
+4) NextJS
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
